@@ -3,7 +3,7 @@ This project from "automate boring stuff"
 it generate exam templates and generate random questions.
 for now it generate 10questions and only 1 file ( using j) just for testing
 TODO :
-1- create_file fn. return does not work as expected
+- this seems to be working now ...
 """
 
 
